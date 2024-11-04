@@ -2,7 +2,7 @@
 
 #### I'm 16 years old developer and cybersecurity student
 
-![Joaostack GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" />
 
