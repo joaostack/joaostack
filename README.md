@@ -1,6 +1,6 @@
 # Hey there 👋
 
-#### I'm 16 years old developer and cybersecurity student
+#### I'm 16 yo developer and cybersecurity student
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
