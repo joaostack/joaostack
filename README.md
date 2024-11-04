@@ -10,6 +10,8 @@
 ![My Skills](https://skillicons.dev/icons?i=bash,cs,bootstrap,git,docker,sqlite,mysql,postgres,html,css)
 
 #### Others
+![My OS's](https://skillicons.dev/icons?i=linux,windows)
+
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
