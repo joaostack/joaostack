@@ -7,10 +7,10 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" />
 
 #### Technologies
-![My Skills](https://skillicons.dev/icons?i=bash,cs,bootstrap,git,docker,sqlite,mysql,postgres,html,css)
+![My Skills](https://skillicons.dev/icons?i=bash,cs,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,html,css)
 
 #### Others
-![My OS's](https://skillicons.dev/icons?i=linux,windows)
+![My OS's](https://skillicons.dev/icons?i=linux,windows,vscode,neovim,visualstudio)
 
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
