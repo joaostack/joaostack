@@ -1,4 +1,4 @@
-### Hey there 👋
+## Hey there 👋
 #### I'm a 16 yo computer hacking, development and cryptocurrency lover
 
 ![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
