@@ -11,8 +11,8 @@
 
 ## 💻 Others
 ![My OS's](https://skillicons.dev/icons?i=linux,windows,vscode,neovim,visualstudio)
-<img width="50" src="https://cryptocurrencyliveprices.com/img/xmr-monero.png">
-<img width="50" src="https://cryptocurrencyliveprices.com/img/btc-bitcoin.png">
+<img alt="Monero image" title="Monero" width="50" src="https://cryptocurrencyliveprices.com/img/xmr-monero.png">
+<img alt="Bicoin image" title="Bitcoin" width="50" src="https://cryptocurrencyliveprices.com/img/btc-bitcoin.png">
 
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
