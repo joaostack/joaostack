@@ -1,7 +1,7 @@
 ### Hey there 👋
 #### I'm a 16 yo computer hacking, development and cryptocurrency lover
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
 
 ## 🏆 Achievements
 <img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" />
