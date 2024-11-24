@@ -1,5 +1,5 @@
 ## Hey there 👋
-#### I'm a 16 yo computer hacking, development and cryptocurrency lover
+#### I'm a 16-year-old who loves hacking, development, and cryptocurrency, and I've been studying these topics since I was 12 yo.
 
 ![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
 
