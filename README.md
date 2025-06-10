@@ -7,7 +7,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" />
 
 ## 🖥️ Technologies
-![My Skills](https://skillicons.dev/icons?i=bash,cs,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,html,css)
+![My Skills](https://skillicons.dev/icons?i=bash,cs,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css)
 
 ## 💻 Others
 ![My OS's](https://skillicons.dev/icons?i=linux,windows,vscode,neovim,visualstudio)
