@@ -1,6 +1,8 @@
 ## Hey there 👋
 #### I'm a 16-year-old who loves hacking, development, and cryptocurrency, and I've been studying these topics since I was 12 yo.
 
+![Visitor Count](https://profile-counter.glitch.me/joaostack/count.svg)
+
 ![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
 
 ## 🏆 Achievements
