@@ -1,28 +1,19 @@
-## Hey there 👋
-#### 💻 16 yo teen cybersecurity enthusiast diving deep into computer science since 12.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20Joao%20H.)
 
-![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
+### Hey there 👋  
+💻 16‑year‑old CyberSecurity teen, exploring Computer Science since 12.
 
-![Visitor Count](https://profile-counter.glitch.me/joaostack/count.svg)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaoh.png)](https://tryhackme.com/p/joaoh)  
+[![Visitor Count](https://profile-counter.glitch.me/joaostack/count.svg)]
 
-## 🏆 Achievements
-<a target="_blank" href="https://tryhackme.com/p/joaoh"><img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" /></a>
+### 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)  
 
-## 🖥️ Technologies
-![My Skills](https://skillicons.dev/icons?i=bash,cs,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css)
+### 🗣️ Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-## 💻 Others
-![My OS's](https://skillicons.dev/icons?i=linux,windows,vscode,neovim,visualstudio)
-<img alt="Monero image" title="Monero" width="50" src="https://cryptocurrencyliveprices.com/img/xmr-monero.png">
-<img alt="Bicoin image" title="Bitcoin" width="50" src="https://cryptocurrencyliveprices.com/img/btc-bitcoin.png">
+### 🖥️ Skills & Tech  
+![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css,linux,windows,vscode,neovim,visualstudio)
 
-![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Burp](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-## 📬 Contact
-* 📧 Email: joaohcontato@proton.me
-
-![rainbow-line](https://github.com/user-attachments/assets/76c27c64-3a1f-4a15-8786-448ec3d79967)
+### 📬 Contact  
+- 📧 joaohcontato@proton.me
