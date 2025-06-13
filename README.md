@@ -12,8 +12,18 @@
 ### 🗣️ Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-### 🖥️ Skills & Tech
-![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css,linux,windows,vscode,neovim,visualstudio)
+### 🖥️ Languages
+![My Langs](https://skillicons.dev/icons?i=cs,bash,js,html,css)
+
+### ⚙️ Databases
+![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
+
+### 🛠️ Tools
+![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim)
+
+#### 👾 OS
+![My OS](https://skillicons.dev/icons?i=windows,linux)
+
 
 ### 📬 Contact  
 - _joaohcontato@proton.me_
