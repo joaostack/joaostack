@@ -16,4 +16,4 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,bash,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css,linux,windows,vscode,neovim,visualstudio)
 
 ### 📬 Contact  
-- 📧 joaohcontato@proton.me
+- _joaohcontato@proton.me_
