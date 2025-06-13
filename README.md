@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20Joao%20H.)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20João%20H.)
 
 ### Hey there 👋  
 💻 16‑year‑old CyberSecurity teen, exploring Computer Science since 12.
