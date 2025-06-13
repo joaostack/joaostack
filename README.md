@@ -1,12 +1,12 @@
 ## Hey there 👋
-#### I'm a 16-year-old who loves hacking, development, and cryptocurrency, and I've been studying these topics since I was 12 yo.
+#### 💻 16 yo teen cybersecurity enthusiast diving deep into computer science since 12.
 
 ![frog](https://github.com/user-attachments/assets/d860fa2b-30f3-4fa5-89fd-28221a6f4d5b)
 
 ![Visitor Count](https://profile-counter.glitch.me/joaostack/count.svg)
 
 ## 🏆 Achievements
-<img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" />
+<a target="_blank" href="https://tryhackme.com/p/joaoh"><img src="https://tryhackme-badges.s3.amazonaws.com/joaoh.png" alt="Your Image Badge" /></a>
 
 ## 🖥️ Technologies
 ![My Skills](https://skillicons.dev/icons?i=bash,cs,dotnet,bootstrap,git,docker,sqlite,mysql,postgres,js,html,css)
