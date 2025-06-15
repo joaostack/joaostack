@@ -3,7 +3,7 @@
 ### Hey there 👋
 💻 16‑year‑old CyberSecurity teen, exploring Computer Science since 12.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaoh.png)](https://tryhackme.com/p/joaostack)  
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaostack.png)](https://tryhackme.com/p/joaostack)  
 [![Visitor Count](https://profile-counter.glitch.me/joaostack/count.svg)]
 
 ### 📈 GitHub Stats 
