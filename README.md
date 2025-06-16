@@ -21,10 +21,10 @@
 ### 🛠️ Tools
 ![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim)
 
-#### 👾 OS
+### 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
-#### 📝 Languages
+### 📝 Languages
 🇧🇷 🇺🇸
 
 ### 📬 Contact  
