@@ -9,7 +9,7 @@
 ### 📈 GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)  
 
-### 🗣️ Top Languages  
+### 🗣️ Top Programming Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ### 🖥️ Languages
@@ -24,6 +24,8 @@
 #### 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
+#### Languages
+🇧🇷 🇺🇸
 
 ### 📬 Contact  
 - _joaohcontato@proton.me_
