@@ -24,7 +24,7 @@
 #### 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
-#### Languages
+#### 📝 Languages
 🇧🇷 🇺🇸
 
 ### 📬 Contact  
