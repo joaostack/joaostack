@@ -26,5 +26,9 @@
 ### 📝 Languages
 🇧🇷 🇺🇸
 
+### 🧠 Learning
+![Learning](https://skillicons.dev/icons?i=tailwind,react)
+
+
 ### 📬 Contact  
 - _joaohcontato@proton.me_
