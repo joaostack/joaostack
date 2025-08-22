@@ -12,13 +12,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ### 🖥️ Programming Languages
-![My Langs](https://skillicons.dev/icons?i=cs,bash,js,html,css)
+![My Langs](https://skillicons.dev/icons?i=cs,bash,js)
 
 ### ⚙️ Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
 
 ### 🛠️ Tools
-![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim)
+![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim,html,css)
 
 ### 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
