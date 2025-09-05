@@ -20,6 +20,8 @@
 ### 🛠️ Tools
 ![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim,html,css)
 
+<img width="300" height="100" alt="mitre_attack_logo" src="https://github.com/user-attachments/assets/5614094d-860a-4ae7-8bfd-c6a027558904" />
+
 ### 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
