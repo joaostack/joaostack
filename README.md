@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20João%20H.)
 
 ### Hey there 👋
-💻 16‑year‑old CyberSecurity teen, exploring Computer Science since 12.
+💻 16yo student of cybersecurity and computer science, exploring tech since age 12.
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaostack.png)](https://tryhackme.com/p/joaostack)
 
