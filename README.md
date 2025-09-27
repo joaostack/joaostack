@@ -11,11 +11,8 @@
 ### 🗣️ Top Programming Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-### 🖥️ Most Used Programming Languages
-![My Langs](https://skillicons.dev/icons?i=cs,bash,go)
-
-### 💻 Least used
-![Least used](https://skillicons.dev/icons?i=js)
+### 🖥️ Main Programming Languages
+![My Langs](https://skillicons.dev/icons?i=cs,bash,go,js)
 
 ### ⚙️ Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
