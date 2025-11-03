@@ -4,7 +4,7 @@
 
 I'm 17yo student of cybersecurity and computer science, exploring tech since age 12.
 
-I enjoy studying a little bit of everything, such as AI, Low Level Development, Software/Web Development, and especially Cybersecurity.
+I enjoy studying a little bit of everything, such as AI, Low Level, Software/Web Development, and especially Cybersecurity.
 
 C# is my primary language, but I'm also interested in Bash, JS, C/C++, Go, and a bit of Assembly.
 
