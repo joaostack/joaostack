@@ -6,8 +6,6 @@ I'm 17yo student of cybersecurity and computer science, exploring tech since age
 
 I enjoy studying a little bit of everything, such as AI, Low Level, Software/Web Development, and especially Cybersecurity.
 
-C# is my primary language, but I'm also interested in Bash, JS, C/C++, Go, and a bit of Assembly.
-
 ## 📈 Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
 
