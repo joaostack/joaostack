@@ -1,38 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20João%20H.)
 
-### Hey there 👋
-💻 17yo student of cybersecurity and computer science, exploring tech since age 12.
+## Hey there 👋
+
+I'm 17yo student of cybersecurity and computer science, exploring tech since age 12.
+
+I enjoy studying a little bit of everything, such as AI, Low Level Development, Software/Web Development, and especially Cybersecurity.
+
+C# is my primary language, but I'm also interested in Bash, JS, C/C++, Go, and a bit of Assembly.
+
+## 📈 Stats 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaostack.png)](https://tryhackme.com/p/joaostack)
 
-### 📈 GitHub Stats 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)  
-
-### 🗣️ Top Programming Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-### 🖥️ Main Programming Language
-![My Langs](https://skillicons.dev/icons?i=cs)
-### I don't use them very often, but I like them.
-![My Langs](https://skillicons.dev/icons?i=bash,go,js,c)
-
-### ⚙️ Databases
+## ⚙️ Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
 
-### 🛠️ Tools
-![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim,html,css)
+## 🛠️ Tools
+![My Tools](https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,neovim,md,html,css)
 
 <img width="150" height="100" alt="mitre_attack_logo" src="https://github.com/user-attachments/assets/fe197a90-ff18-496d-92d3-656b7d1f7105" />
 
-### 👾 OS
+## 👾 OS
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
-### 📝 Languages
-🇧🇷 🇺🇸
+## 📝 Languages
+Portuguese (native) | English (intermediate, reading & writing)
 
-### 🧠 Learning
-![Learning](https://skillicons.dev/icons?i=tailwind,react)
-
-
-### 📬 Contact  
+## 📬 Contact  
 - _joaohcontato@proton.me_
