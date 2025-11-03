@@ -23,8 +23,8 @@
 ![My OS](https://skillicons.dev/icons?i=windows,linux)
 
 ## 📝 Languages
-- Portuguese (native)
-- English (intermediate, reading & writing)
+- 🇧🇷 Portuguese (native)
+- 🇺🇸 English (intermediate, reading & writing)
 
 ## 📬 Contact  
 - _joaohcontato@proton.me_
