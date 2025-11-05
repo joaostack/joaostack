@@ -9,8 +9,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/joaostack.png)](https://tryhackme.com/p/joaostack)
-
 ## ⚙️ Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
 
