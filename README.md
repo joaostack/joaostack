@@ -5,9 +5,9 @@
 - 🧠 Always trying to learn a little bit of everything.
 
 ## 📈 Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=react&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=react&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=synthwave&hide_border=true)
 
 ## ⚙️ Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres)
