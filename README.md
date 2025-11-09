@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hey%20there!%20I'm%20João%20H.)
 
+> _Look at the sky tonight, all the stars have a reason..._
+> 
+> -- <cite>Lil Peep</cite> 💖
+
 ## 😀 Whoami?
 - 👩🏻‍💻 I'm 17yo student of cybersecurity and computer science, exploring tech since age 12.
 - 🧠 Always trying to learn a little bit of everything.
