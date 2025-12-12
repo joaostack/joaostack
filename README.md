@@ -14,9 +14,9 @@
 - 🧠 Always trying to learn a little bit of everything.
 
 ## 📈 Stats
-![Top Langs](https://joaostack-github-stats.vercel.app/api/top-langs/?username=joaostack&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://joaostack-github-stats.vercel.app/api/top-langs/?username=joaostack&theme=synthwave&show_icons=true&hide_border=true)
 
-![GitHub Stats](https://joaostack-github-stats.vercel.app/api?username=joaostack&show_icons=true&theme=synthwave&hide_border=true&layout=compact)
+![GitHub Stats](https://joaostack-github-stats.vercel.app/api?username=joaostack&show_icons=true&theme=synthwave&hide_border=true)
 
 ## 📝 Languages
 - 🇧🇷 Portuguese (native)
