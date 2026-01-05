@@ -23,9 +23,5 @@
 <a href="https://www.credly.com/badges/9257c4d1-8091-4088-8f18-b9de42d492e7" target="_blank"><img width="100" height="100" alt="I2CS__1_" src="https://github.com/user-attachments/assets/31a646c7-553c-46b0-8b4e-1f5c28b0f6bb" /></a>
 <a href="https://www.credly.com/badges/ed14eb19-cfcf-4f78-b970-270c243a20ef" target="_blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4b1e779c-3a17-46e5-8814-7055a9fd6c06" /></a>
 
-## 📝 Languages
-- 🇧🇷 Portuguese (native)
-- 🇺🇸 English (intermediate, reading & writing)
-
 ## 📬 Contact
 - _joaohcontato@proton.me_
