@@ -10,7 +10,7 @@
 ```
 
 ## 😀 Whoami?
-- 👩🏻‍💻 I'm João Henryque, 17yo student. I love cybersecurity and computer science, exploring tech since age 12.
+- 👩🏻‍💻 I'm **João Henryque**, 17yo student. I love cybersecurity and computer science, exploring tech since age 12.
 - 🧠 Always trying to learn a little bit of everything.
 
 ## 📈 Stats
