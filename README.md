@@ -14,9 +14,9 @@
 - 🧠 Always trying to learn a little bit of everything.
 
 ## 📈 Stats
-![Top Langs](https://joaostack-github-stats.vercel.app/api/top-langs/?username=joaostack&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://joaostack-github-stats.vercel.app/api?username=joaostack&show_icons=true&theme=transparent&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=transparent&hide_border=true&layout=compact)
 
 ## 🏆 Achievements
 <img src="https://tryhackme-badges.s3.amazonaws.com/joaostack.png" alt="Your Image Badge" />
