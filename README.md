@@ -4,7 +4,7 @@
 
 # Olá👋 eu sou João Henryque!
 
-💻 **17 anos | Brasil**
+💻 **17 anos | Hackeando por diversão, codando por amor**
 
 Curto muito coisas relacionadas a tecnologia, estudo com frequência:
 
