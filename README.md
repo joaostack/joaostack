@@ -17,7 +17,7 @@
 
 ---
 
-# Olá, eu sou o João Henryque!
+# Olá👋 eu sou João Henryque!
 
 💻 **17 anos | Brasil**
 
