@@ -38,7 +38,7 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde e
 
 ### Tecnologias que tenho familiaridade
 
-![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,js,c,go,mongodb)
+![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,js,nodejs,c,go,mongodb)
 
 ### Backend & Infra
 
@@ -62,6 +62,4 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde e
 
 ---
 
-# 📬 Contato
-
-📧 **joaohcontato@proton.me**
+[![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-66669a?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
