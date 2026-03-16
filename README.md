@@ -1,21 +1,6 @@
-```
-    /$$$$$  /$$$$$$   /$$$$$$   /$$$$$$        /$$   /$$    
-   |__  $$ /$$__  $$ /$$__  $$ /$$__  $$      | $$  | $$    
-      | $$| $$  \ $$| $$  \ $$| $$  \ $$      | $$  | $$    
-      | $$| $$  | $$| $$$$$$$$| $$  | $$      | $$$$$$$$    
- /$$  | $$| $$  | $$| $$__  $$| $$  | $$      | $$__  $$    
-| $$  | $$| $$  | $$| $$  | $$| $$  | $$      | $$  | $$    
-|  $$$$$$/|  $$$$$$/| $$  | $$|  $$$$$$/      | $$  | $$ /$$
- \______/  \______/ |__/  |__/ \______/       |__/  |__/|__/ 
-```
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Linux+Power+User;Computer+Science+Student;Hacking" />
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Linux+Power+User;Computer+Science+Student;Hacking" />
 </div>
-
----
 
 # Olá👋 eu sou João Henryque!
 
