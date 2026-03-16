@@ -54,14 +54,6 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde e
 
 ---
 
-# Coisas que eu gosto de fazer
-
-- Desenvolver APIs backend usando ASP.NET Core
-- Desenvolver ferramentas gerais (Redes, OSINT, Hacking)
-- Jogar CTF
-
----
-
 # Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=transparent&show_icons=true&hide_border=true&layout=compact)
