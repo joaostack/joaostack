@@ -28,4 +28,5 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 
 ## Contato
 
-[![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-66669a?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
+[![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
+![Discord](https://img.shields.io/badge/Discord-joaostack-7289da?style=for-the-badge&logo=discord&logoColor=white)
