@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Linux+Power+User;Computer+Science+Student;Hacking" />
-</div>
-
 # Olá👋 eu sou João Henryque!
 
 💻 **17 anos | Hackeando por diversão, codando por amor**
@@ -30,3 +26,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
 ![Discord](https://img.shields.io/badge/Discord-joaostack-7289da?style=for-the-badge&logo=discord&logoColor=white)
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Linux+Power+User;Computer+Science+Student;Hacking" />
+</div>
