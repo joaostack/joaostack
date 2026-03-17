@@ -11,7 +11,7 @@ durante todo esse tempo tive contato com diversas linguagens e tecnologias.
 Desde então fico explorando sistemas, estudando segurança e criando alguns projetos.
 
 Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é destinado a:
-- Cybersecurity
+- CyberSecurity (Pentesting / CTI)
 - Redes de Computadores
 - Desenvolvimento Backend / Web
 - Sistemas Linux / Bash Scripting
