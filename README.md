@@ -24,8 +24,6 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
 ## Contato
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
