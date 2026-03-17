@@ -12,8 +12,8 @@ Desde então fico explorando sistemas, estudando segurança e criando alguns pro
 
 Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é destinado a:
 - Cybersecurity
-- Desenvolvimento Backend
-- Sistemas Linux
+- Desenvolvimento Backend / Web
+- Sistemas Linux / Bash Scripting
 - Fundamentos de Ciência da Computação
 - Algoritmo / Estrutura de Dados
 
