@@ -21,7 +21,7 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde e
 
 ![Langs](https://skillicons.dev/icons?i=cs)
 
-### Tecnologias que possuo familiaridade
+### Tecnologias Complementares
 
 ![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,nodejs,js,c,go,bash)
 
