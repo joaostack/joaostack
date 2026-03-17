@@ -16,7 +16,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Desenvolvimento Backend / Web
 - Sistemas Linux / Bash Scripting
 - Fundamentos de Ciência da Computação
-- Algoritmo / Estrutura de Dados
+- Algoritmos / Estrutura de Dados
 
 ## Stacks
 ![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
