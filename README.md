@@ -10,7 +10,7 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos** e
 durante todo esse tempo tive contato com diversas linguagens e tecnologias. 
 Desde então fico explorando sistemas, estudando segurança e criando alguns projetos.
 
-Tenho um amplo interesse em vários âmbitos da tecnologia, mas tenho um amplo interesse em:
+Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é destinado a:
 - Cybersecurity
 - Desenvolvimento Backend
 - Sistemas Linux
