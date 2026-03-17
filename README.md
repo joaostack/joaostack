@@ -18,12 +18,10 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Fundamentos de Ciência da Computação
 - Algoritmo / Estrutura de Dados
 
-# Stacks
-
+## Stacks
 ![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
 
-# Stats
-
+## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=transparent&hide_border=true)
