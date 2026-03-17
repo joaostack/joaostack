@@ -19,7 +19,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas tenho um amplo i
 
 # Stacks
 
-![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,bash,git,docker,mysql,postgres,sqlite)
+![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
 
 # Stats
 
