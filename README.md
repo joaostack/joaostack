@@ -17,13 +17,13 @@ Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde e
 
 ---
 
-### Linguagens que uso mais
+### Linguagem Principal
 
-![Langs](https://skillicons.dev/icons?i=cs,bash)
+![Langs](https://skillicons.dev/icons?i=cs)
 
-### Tecnologias que tenho familiaridade
+### Tecnologias que possuo familiaridade
 
-![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,nodejs,js,c,go)
+![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,nodejs,js,c,go,bash)
 
 ### Backend & Infra
 
