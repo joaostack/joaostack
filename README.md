@@ -18,7 +18,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Fundamentos de Ciência da Computação
 - Algoritmos / Estrutura de Dados
 
-## Stacks
+## GitHub Stacks
 ![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
 
 ## Stats
@@ -26,6 +26,6 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&theme=transparent&hide_border=true)
 
----
+## Contato
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-66669a?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
