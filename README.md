@@ -6,38 +6,20 @@
 
 💻 **17 anos | Hackeando por diversão, codando por amor**
 
-Curto muito coisas relacionadas a tecnologia, estudo com frequência:
+Comecei a mexer com **hacking e programação por volta dos 12 anos** e
+durante todo esse tempo tive contato com diversas linguagens e tecnologias. 
+Desde então fico explorando sistemas, estudando segurança e criando alguns projetos.
 
+Tenho um amplo interesse em vários âmbitos da tecnologia, mas tenho um amplo interesse em:
 - Cybersecurity
 - Desenvolvimento Backend
 - Sistemas Linux
-- Ciência da Computação
+- Fundamentos de Ciência da Computação
+- Algoritmo / Estrutura de Dados
 
-Comecei a mexer com **hacking e programação por volta dos 12 anos**, e desde então fico explorando sistemas, estudando segurança e criando alguns projetos.
+# Stacks
 
----
-
-### Linguagem Principal
-
-![Langs](https://skillicons.dev/icons?i=cs)
-
-### Tecnologias Complementares
-
-![Basics](https://skillicons.dev/icons?i=html,css,tailwind,react,mongodb,nodejs,js,c,go,bash)
-
-### Backend & Infra
-
-![Infra](https://skillicons.dev/icons?i=dotnet,docker,linux,git)
-
-### Bancos de dados
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
-
-### Editores
-
-![Editores](https://skillicons.dev/icons?i=neovim,vim)
-
----
+![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
 
 # Stats
 
