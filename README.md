@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/d36b28ba-8313-453b-b098-4e824b551728" />
-</div>
-
 # Olá👋 eu sou João Henryque!
 
 💻 **Tenho 17 anos!**
