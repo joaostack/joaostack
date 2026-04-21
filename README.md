@@ -15,7 +15,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Algoritmos / Estrutura de Dados
 
 ## Stacks
-![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,git,docker,mysql,postgres,sqlite)
+![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,windows,git,docker,mysql,postgres,sqlite,neovim,visualstudio)
 
 ## Contato
 
