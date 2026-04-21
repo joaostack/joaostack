@@ -7,12 +7,11 @@ durante todo esse tempo tive contato com diversas linguagens e tecnologias.
 Desde então fico explorando sistemas, estudando segurança e criando alguns projetos.
 
 Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é destinado a:
-- CyberSecurity (Pentesting / Cyber Threat Intelligence)
+- CyberSecurity
 - Redes de Computadores
-- Desenvolvimento Backend / Web
-- Sistemas Linux / Bash Scripting
-- Fundamentos de Ciência da Computação
-- Algoritmos / Estrutura de Dados
+- Desenvolvimento Back-End
+- Sistemas Linux
+- Fundamentos de Ciência da Computação (Algoritmos e Estrutura de Dados)
 
 ## Stacks
 ![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,windows,git,docker,mysql,postgres,sqlite,neovim,visualstudio)
