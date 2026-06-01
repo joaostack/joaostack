@@ -11,10 +11,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Redes de Computadores
 - Desenvolvimento Back-End
 - Sistemas Linux
-- Fundamentos de Ciência da Computação (Algoritmos e Estrutura de Dados)
-
-## Stacks
-![Stack](https://skillicons.dev/icons?i=cs,dotnet,linux,windows,git,docker,mysql,postgres,sqlite,neovim,visualstudio)
+- Fundamentos de Ciência da Computação
 
 ## Contato
 
