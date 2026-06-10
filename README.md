@@ -13,7 +13,7 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Sistemas Linux
 - Fundamentos de Ciência da Computação
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,linux,windows" />
+<img src="https://skillicons.dev/icons?i=cs,bash,dotnet,linux,windows" />
 
 ## Contato
 
