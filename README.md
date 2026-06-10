@@ -13,6 +13,8 @@ Tenho um amplo interesse em vários âmbitos da tecnologia, mas meu foco é dest
 - Sistemas Linux
 - Fundamentos de Ciência da Computação
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,linux" />
+
 ## Contato
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
