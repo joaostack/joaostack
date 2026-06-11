@@ -1,6 +1,6 @@
 # Olá👋 eu sou João Henryque!
 
-💻 **Tenho 17 anos!**
+💻 **Tenho 17 anos e estou sempre tentando aprender um pouco de tudo!**
 
 Comecei a mexer com **hacking e programação por volta dos 12 anos** e
 durante todo esse tempo tive contato com diversas linguagens e tecnologias. 
