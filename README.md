@@ -28,9 +28,9 @@
 
 ## Ferramentas e ambiente
 
-- [<img src="https://skillicons.dev/icons?i=neovim" width="18"/>] Neovim
-- [<img src="https://skillicons.dev/icons?i=vscode" width="18"/>] VS Code
-- [<img src="https://skillicons.dev/icons?i=visualstudio" width="18"/>] Visual Studio
+- [<img src="https://skillicons.dev/icons?i=neovim" width="18"/>] Neovim (Projetos simples)
+- [<img src="https://skillicons.dev/icons?i=vscode" width="18"/>] VS Code (Projetos intermediarios)
+- [<img src="https://skillicons.dev/icons?i=visualstudio" width="18"/>] Visual Studio (Projetos grandes)
 
 ---
 
