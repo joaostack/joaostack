@@ -27,6 +27,8 @@
 - 🐧 Sistemas Linux
 - 📚 Fundamentos de Ciência da Computação
 
+---
+
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;C%23+%2F+.NET+Developer;Linux+User;Computer+Science+Student;Offensive+Security+Focus" />
 </div>
