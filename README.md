@@ -26,14 +26,6 @@
 
 ---
 
-## Ferramentas e ambiente
-
-- [<img src="https://skillicons.dev/icons?i=neovim" width="18"/>] Neovim (Projetos simples)
-- [<img src="https://skillicons.dev/icons?i=vscode" width="18"/>] VS Code (Projetos intermediarios)
-- [<img src="https://skillicons.dev/icons?i=visualstudio" width="18"/>] Visual Studio (Projetos grandes)
-
----
-
 ## Contato
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
