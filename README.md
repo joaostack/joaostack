@@ -6,7 +6,7 @@
 
 ## Áreas de foco
 
-- Cybersecurity (Red Team / Blue Team)
+- Cybersecurity
 - Redes de Computadores
 - Desenvolvimento Back-End
 - Sistemas Linux
