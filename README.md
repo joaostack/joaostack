@@ -20,21 +20,21 @@ Desde então fico explorando sistemas, estudando segurança e criando alguns pro
 
 ## Main Skills
 
-- C# <img src="https://skillicons.dev/icons?i=cs" width="18"/> \- .NET e aplicações back-end (desde 2024)
-- Linux <img src="https://skillicons.dev/icons?i=linux" width="18"/> \- shell scripting básico e administração/configuração
-- Docker <img src="https://skillicons.dev/icons?i=docker" width="18"/> \- conteinerização
-- Git <img src="https://skillicons.dev/icons?i=git" width="18"/> \- versionamento (branch, commits, etc)
-- SQL <img src="https://skillicons.dev/icons?i=postgres" width="18"/> \- bancos relacionais
-- NoSQL <img src="https://skillicons.dev/icons?i=mongodb" width="18"/> \- conceitos básicos
-- React <img src="https://skillicons.dev/icons?i=react" width="18"/> \- front-end básico
+- [<img src="https://skillicons.dev/icons?i=cs" width="18"/>] C# - .NET e aplicações back-end (desde 2024)
+- [<img src="https://skillicons.dev/icons?i=linux" width="18"/>] Linux - shell scripting básico e administração/configuração
+- [<img src="https://skillicons.dev/icons?i=docker" width="18"/>] Docker - conteinerização
+- [<img src="https://skillicons.dev/icons?i=git" width="18"/>] Git - versionamento (branch, commits, etc)
+- [<img src="https://skillicons.dev/icons?i=postgres" width="18"/>] SQL - bancos relacionais
+- [<img src="https://skillicons.dev/icons?i=mongodb" width="18"/>] NoSQL - conceitos básicos
+- [<img src="https://skillicons.dev/icons?i=react" width="18"/>] React - front-end básico
 
 ---
 
 ## Ferramentas e ambiente
 
-- Neovim <img src="https://skillicons.dev/icons?i=neovim" width="18"/>
-- VS Code <img src="https://skillicons.dev/icons?i=vscode" width="18"/>
-- Visual Studio <img src="https://skillicons.dev/icons?i=visualstudio" width="18"/>
+- [<img src="https://skillicons.dev/icons?i=neovim" width="18"/>] Neovim
+- [<img src="https://skillicons.dev/icons?i=vscode" width="18"/>] VS Code
+- [<img src="https://skillicons.dev/icons?i=visualstudio" width="18"/>] Visual Studio
 
 ---
 
