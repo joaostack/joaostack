@@ -1,6 +1,6 @@
 # Olá👋 eu sou João Henryque!
 
-> Tenho 17 anos e desde os 12 estou envolvido com hacking e programação. Atualmente focado em C# / .NET, Red Team e fundamentos de Ciência da Computação.
+> Tenho 17 anos, estudo computação de forma autodidata desde os 12 anos e atualmente foco em segurança ofensiva e desenvolvimento back-end com C# / .NET.
 
 ---
 
