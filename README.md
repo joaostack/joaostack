@@ -3,7 +3,7 @@
 **Estudante autodidata de Computação | Cybersecurity & Backend Developer (C# / .NET)**  
 
 > Tenho 17 anos e estudo computação de forma autodidata desde os 12 anos.  
-> Atualmente foco em **segurança ofensiva**, **redes de computadores** e **desenvolvimento backend com C# / .NET**.
+> Atualmente foco em **segurança ofensiva**, **redes de computadores** e **desenvolvimento com C# / .NET**.
 
 ---
 
@@ -24,7 +24,7 @@
 
 - 🏴‍☠️ Cybersecurity
 - 🌐 Redes de Computadores (TCP/IP | OSI)
-- 🏗️ Desenvolvimento Backend com C# / .NET
+- 🏗️ Desenvolvimento Backend e CLI tools com C# / .NET
 - 🐧 Sistemas Linux
 - 📚 Fundamentos de Ciência da Computação
 
