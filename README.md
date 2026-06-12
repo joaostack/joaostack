@@ -21,7 +21,6 @@
 - [<img src="https://skillicons.dev/icons?i=docker" width="18"/>] Docker - fundamentos de conteinerização
 - [<img src="https://skillicons.dev/icons?i=git" width="18"/>] Git - versionamento (branch, commits, etc)
 - [<img src="https://skillicons.dev/icons?i=postgres" width="18"/>] SQL - fundamentos de bancos relacionais
-- [<img src="https://skillicons.dev/icons?i=mongodb" width="18"/>] NoSQL - conceitos básicos
 - [<img src="https://skillicons.dev/icons?i=react" width="18"/>] React - fundamentos de front-end
 
 ---
