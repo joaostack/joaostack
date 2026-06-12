@@ -17,7 +17,7 @@
 ## Main Skills
 
 - [<img src="https://skillicons.dev/icons?i=cs" width="18"/>] C# - .NET e aplicações back-end (desde 2024)
-- [<img src="https://skillicons.dev/icons?i=linux" width="18"/>] Linux - shell scripting básico e administração/configuração
+- [<img src="https://skillicons.dev/icons?i=linux" width="18"/>] Linux - fundamentos de shell scripting e administração/configuração
 - [<img src="https://skillicons.dev/icons?i=docker" width="18"/>] Docker - fundamentos de conteinerização
 - [<img src="https://skillicons.dev/icons?i=git" width="18"/>] Git - versionamento (branch, commits, etc)
 - [<img src="https://skillicons.dev/icons?i=postgres" width="18"/>] SQL - fundamentos de bancos relacionais
