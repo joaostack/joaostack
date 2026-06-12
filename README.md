@@ -1,6 +1,6 @@
 # Olá👋 eu sou João Henryque!
 
-**Estudante autodidata de Computação | Cybersecurity & Backend Developer (C# / .NET)**  
+**Estudante autodidata de Computação**  
 
 > Tenho 17 anos e estudo computação de forma autodidata desde os 12 anos.
 
