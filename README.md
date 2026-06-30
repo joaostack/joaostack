@@ -12,8 +12,8 @@
   <a href="mailto:joaohcontato@proton.me">
     <img src="https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-joaostack-7289da?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://discord.gg/CQBpxxvNdY">
+    <img src="https://img.shields.io/badge/Discord-DevCoders Community-7289da?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
