@@ -54,4 +54,5 @@ Estudo Ciência da Computação de forma autodidata desde os 12 anos. Tenho inte
 
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
 </p>
