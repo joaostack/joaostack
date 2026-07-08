@@ -31,7 +31,7 @@ Estudo Ciência da Computação de forma autodidata desde os 12 anos. Tenho inte
 
 ## 🛠️ Tecnologias
 
-### Linguagens
+### Linguagens de Interesse
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
