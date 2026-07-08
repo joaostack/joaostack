@@ -24,8 +24,8 @@ Estudo Ciência da Computação de forma autodidata desde os 12 anos. Tenho inte
 - Ferramentas de Linha de Comando (CLI)
 - Redes de Computadores
 - Linux
-- Microserviços
-- Ciência da Computação
+- Microsserviços
+- Fundamentos de Ciência da Computação
 
 ---
 
