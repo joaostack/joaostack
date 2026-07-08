@@ -1,6 +1,6 @@
-# Olá, eu sou João Henryque 👋
+# Olá, eu sou João Henryque👋
 
-Estudo Ciência da Computação de forma autodidata desde os 12 anos. Tenho interesse em desenvolvimento de software, segurança da informação, sistemas Linux e redes de computadores.
+> Tenho 17 anos e estudo Ciência da Computação de forma autodidata desde os 12 anos. Tenho interesse em desenvolvimento de software, segurança da informação, sistemas Linux e redes de computadores.
 
 ---
 
