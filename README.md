@@ -25,7 +25,7 @@
 - Ferramentas de Linha de Comando (CLI)
 - Redes de Computadores
 - Linux
-- Microsserviços
+- Microsserviços / IOT
 - Fundamentos de Ciência da Computação
 
 ---
@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ### Sistemas
