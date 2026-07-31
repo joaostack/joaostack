@@ -27,5 +27,6 @@
 - Linux
 - Microsserviços / IOT
 - Fundamentos de Ciência da Computação
+- Game Hacking
 
 ---
