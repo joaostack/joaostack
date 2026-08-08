@@ -12,6 +12,14 @@
 
 ---
 
+## 🧰 Tech Stack
+
+| Desenvolvimento | Infra & SysAdmin | Banco de Dados | Ferramentas |
+|-----------------|------------------|----------------|-------------|
+| ![JavaScript](https://skillicons.dev/icons?i=vuejs) ![C#](https://skillicons.dev/icons?i=cs) | ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) | ![SQLite](https://skillicons.dev/icons?i=sqlite) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Git](https://skillicons.dev/icons?i=git) ![Neovim](https://skillicons.dev/icons?i=neovim) |
+
+---
+
 ## 💡 Áreas de Interesse
 
 - 🛡️ **Segurança da Informação**
