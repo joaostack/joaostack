@@ -1,4 +1,4 @@
-# Olá, eu sou João Henryque 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Olá,%20sou%20João%20Henryque!)
 
 > Tenho 17 anos e estudo Ciência da Computação de forma autodidata desde os 12 anos.
 > Tenho interesse em desenvolvimento de software, segurança da informação, sistemas Linux e redes de computadores.
