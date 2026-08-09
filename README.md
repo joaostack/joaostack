@@ -8,7 +8,6 @@
 ## 🌐 Contato
 
 [![Email](https://img.shields.io/badge/Email-joaohcontato%40proton.me-8B008B?style=for-the-badge&logo=proton&logoColor=white)](mailto:joaohcontato@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-Codenux%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CQBpxxvNdY)
 
 ---
 
