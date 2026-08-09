@@ -20,7 +20,7 @@
 
 ---
 
-## 💡 Áreas de Interesse
+## 💡 Interesses
 
 - 🛡️ **Segurança da Informação**
 - ⚙️ **Desenvolvimento Backend**
