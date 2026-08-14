@@ -13,7 +13,7 @@
 
 ## 🧰 Tech Stack
 
-**Desenvolvimento**  
+**Linguagens de Interesse**  
 ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vue](https://skillicons.dev/icons?i=vue) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go)
 
 **Infra & SysAdmin**  
