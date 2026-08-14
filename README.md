@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack
 
 **Desenvolvimento**  
-![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=js) ![Vue](https://skillicons.dev/icons?i=vue) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go)
+![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vue](https://skillicons.dev/icons?i=vue) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go)
 
 **Infra & SysAdmin**  
 ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker)
