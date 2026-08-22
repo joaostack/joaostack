@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack
 
 **Linguagens e tecnologias de Interesse**  
-![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vue](https://skillicons.dev/icons?i=vue) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go) ![bash](https://skillicons.dev/icons?i=bash)
+![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Vue](https://skillicons.dev/icons?i=vue) ![C#](https://skillicons.dev/icons?i=cs) ![Go](https://skillicons.dev/icons?i=go) ![bash](https://skillicons.dev/icons?i=bash) ![bash](https://skillicons.dev/icons?i=rust)
 
 **Infra & SysAdmin**  
 ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker)
