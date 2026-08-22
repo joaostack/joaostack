@@ -23,7 +23,7 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 **Ferramentas**  
-![Git](https://skillicons.dev/icons?i=git) ![Neovim](https://skillicons.dev/icons?i=neovim)
+![Git](https://skillicons.dev/icons?i=git) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Neovim](https://skillicons.dev/icons?i=vscode)
 
 ---
 
