@@ -20,11 +20,6 @@
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
-**Desenvolvimento**
-
-![Vue](https://skillicons.dev/icons?i=vue)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-
 **Infraestrutura & Banco de Dados**
 
 ![Linux](https://skillicons.dev/icons?i=linux)
