@@ -14,24 +14,9 @@
 
 ## 🧰 Tech Stack
 
-**Linguagens**
-
 ![C#](https://skillicons.dev/icons?i=cs)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![Bash](https://skillicons.dev/icons?i=bash)
-
-**Infraestrutura & Banco de Dados**
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-**Ferramentas**
-
-![Git](https://skillicons.dev/icons?i=git)
-![Neovim](https://skillicons.dev/icons?i=neovim)
-![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
