@@ -14,7 +14,13 @@
 
 ## 🧰 Tech Stack
 
+Main Languages
+
 ![C#](https://skillicons.dev/icons?i=cs)
+
+Secondary Languages
+
+![Go](https://skillicons.dev/icons?i=go)
 ![Rust](https://skillicons.dev/icons?i=rust)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
