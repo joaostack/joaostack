@@ -34,12 +34,6 @@ Atualmente, estudo principalmente C# e Rust, com foco em desenvolvimento de soft
 
 Também tenho interesse em segurança da informação, especialmente na relação entre software, sistemas operacionais, redes e web.
 
-```text
-Code → Understand → Break → Build → Repeat
-```
-
----
-
 ## 🔐 Areas of Interest
 
 <table>
