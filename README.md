@@ -75,8 +75,7 @@ Code → Understand → Break → Build → Repeat
 - Systems Programming
 - Command-Line Applications
 - Distributed Systems
-- Reverse Engineering
-- Game Security
+- Reverse Engineering | Assembly
 - Computer Science Fundamentals
 
 ---
