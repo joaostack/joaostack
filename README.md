@@ -97,8 +97,8 @@ Linux, windows, debug, processos, memória, sistemas operacionais e fundamentos 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=joaostack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaostack&layout=compact&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=joaostack&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaostack&layout=compact&hide_border=true&langs_count=8&theme=synthwave"/>
 
 </div>
 
