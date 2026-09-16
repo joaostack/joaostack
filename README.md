@@ -82,7 +82,7 @@ Backend, APIs, arquitetura de software, networking e desenvolvimento de ferramen
 
 ### 🦀 Rust
 
-Programação de sistemas, concorrência, networking, ownership e desenvolvimento backend com **Axum** e **SQLx**.
+Programação de sistemas, concorrência, networking, ownership e tooling.
 
 ### 🌐 Networking
 
