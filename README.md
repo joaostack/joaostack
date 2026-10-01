@@ -132,20 +132,6 @@ Linux, Windows, processes, memory, debugging and operating-system fundamentals.
 
 ---
 
-## `04 // ACTIVITY`
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=joaostack&theme=github-dark&hide_border=true&area=true"
-width="95%"
-alt="GitHub Activity"
-/>
-
-</div>
-
----
-
 ## `05 // GITHUB TERMINAL`
 
 <div align="center">
