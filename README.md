@@ -29,7 +29,6 @@ alt="Contact"
 </div>
 
 ---
-
 ## `02 // CURRENTLY`
 
 <table>
@@ -37,7 +36,10 @@ alt="Contact"
 
 <td width="50%" valign="top">
 
-### C#
+<h3>
+<img src="https://cdn.simpleicons.org/sharp/ffffff" width="18" height="18" valign="middle">
+&nbsp;C#
+</h3>
 
 **Primary language**
 
@@ -47,7 +49,10 @@ Backend development, APIs, software architecture, networking, CLI applications a
 
 <td width="50%" valign="top">
 
-### Rust
+<h3>
+<img src="https://cdn.simpleicons.org/rust/ffffff" width="18" height="18" valign="middle">
+&nbsp;Rust
+</h3>
 
 **Secondary language**
 
@@ -61,7 +66,10 @@ Systems programming, ownership, concurrency, networking, tooling and lower-level
 
 <td width="50%" valign="top">
 
-### Networking
+<h3>
+<img src="https://cdn.simpleicons.org/cisco/ffffff" width="18" height="18" valign="middle">
+&nbsp;Networking
+</h3>
 
 TCP/IP, HTTP, sockets, ARP, packet capture and network programming.
 
@@ -69,7 +77,10 @@ TCP/IP, HTTP, sockets, ARP, packet capture and network programming.
 
 <td width="50%" valign="top">
 
-### Systems
+<h3>
+<img src="https://cdn.simpleicons.org/linux/ffffff" width="18" height="18" valign="middle">
+&nbsp;Systems
+</h3>
 
 Linux, Windows, processes, memory, debugging and operating-system fundamentals.
 
