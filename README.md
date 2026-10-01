@@ -37,7 +37,7 @@ alt="Contact"
 <td width="50%" valign="top">
 
 <h3>
-<img src="https://cdn.simpleicons.org/sharp/ffffff" width="18" height="18" valign="middle">
+<img src="https://cdn.simpleicons.org/sharp/ff00ff" width="18" height="18" valign="middle">
 &nbsp;C#
 </h3>
 
@@ -50,7 +50,7 @@ Backend development, APIs, software architecture, networking, CLI applications a
 <td width="50%" valign="top">
 
 <h3>
-<img src="https://cdn.simpleicons.org/rust/ffffff" width="18" height="18" valign="middle">
+<img src="https://cdn.simpleicons.org/rust/67737A" width="18" height="18" valign="middle">
 &nbsp;Rust
 </h3>
 
