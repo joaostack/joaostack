@@ -1,24 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Henryque;Computer+Science+%2F%2F+Software+%2F%2F+Systems;Building+to+understand+how+things+work." alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Jo%C3%A3o+Henryque;Computer+Science+%2F%2F+Software+%2F%2F+Systems;Software+%2F%2F+Networking+%2F%2F+Security;Building+to+understand+how+things+work." alt="Typing"/>
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:6e40c9,100:000000&height=2&section=header&text="
+width="700"
+alt=""
+/>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=777777&center=true&vCenter=true&width=650&lines=%3E+initializing+environment...;%3E+loading+systems...;%3E+loading+network+stack...;%3E+loading+knowledge...;%3E+connection+established."
+alt="Terminal Status"
+/>
 
 <br><br>
 
-<a href="https://github.com/joaostack">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
 <a href="https://joaostack.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img
+src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white"
+alt="Portfolio"
+/>
 </a>
-&nbsp;
+
 <a href="mailto:joaohcontato@proton.me">
-<img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact"/>
+<img
+src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=protonmail&logoColor=white"
+alt="Contact"
+/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=joaostack&style=for-the-badge&color=000000&label=VISITORS" alt="Profile views"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+ONLINE+%5D;%5B+JOAOSTACK+%2F%2F+ONLINE+%5D;%5B+BUILDING+%2F%2F+LEARNING+%2F%2F+UNDERSTANDING+%5D"
+alt="System Status"
+/>
 
 </div>
 
@@ -117,9 +137,9 @@ Linux, Windows, processes, memory, debugging and operating-system fundamentals.
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=joaostack&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=joaostack&theme=github-dark&hide_border=true&area=true"
 width="95%"
-alt="GitHub Activity Graph"
+alt="GitHub Activity"
 />
 
 </div>
@@ -165,9 +185,9 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg"
+src="https://ghchart.rshah.org/joaostack"
+alt="GitHub Contributions"
 width="95%"
-alt="Contribution Snake"
 />
 
 </div>
@@ -198,12 +218,12 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=
 alt="Terminal Animation"
 />
 
-<br><br>
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:151515&height=100&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e40c9,100:000000&height=100&section=footer"
 width="100%"
-alt="Footer"
+alt=""
 />
 
 </div>
