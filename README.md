@@ -125,20 +125,6 @@ alt="GitHub Streak"
 
 ---
 
-## `07 // CONTRIBUTIONS`
-
-<div align="center">
-
-<img
-src="https://ghchart.rshah.org/joaostack"
-alt="GitHub Contributions"
-width="95%"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 <img
