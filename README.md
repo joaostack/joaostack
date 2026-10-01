@@ -12,13 +12,6 @@ alt=""
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=777777&center=true&vCenter=true&width=650&lines=%3E+initializing+environment...;%3E+loading+systems...;%3E+loading+network+stack...;%3E+loading+knowledge...;%3E+connection+established."
-alt="Terminal Status"
-/>
-
-<br><br>
-
 <a href="https://joaostack.vercel.app">
 <img
 src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white"
@@ -33,26 +26,7 @@ alt="Contact"
 />
 </a>
 
-<br><br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&lines=%5B+SYSTEM+ONLINE+%5D;%5B+JOAOSTACK+%2F%2F+ONLINE+%5D;%5B+BUILDING+%2F%2F+LEARNING+%2F%2F+UNDERSTANDING+%5D"
-alt="System Status"
-/>
-
 </div>
-
----
-
-## `01 // ABOUT`
-
-I'm a self-taught computer science student studying computing since the age of 12.
-
-My main interest is understanding how software and systems work beneath their abstractions.
-
-Currently, **C# is my primary language**, while **Rust is my secondary language** for exploring systems programming and lower-level concepts.
-
-My interests sit around software development, backend systems, networking, operating systems and information security.
 
 ---
 
@@ -106,32 +80,6 @@ Linux, Windows, processes, memory, debugging and operating-system fundamentals.
 
 ---
 
-## `03 // INTERESTS`
-
-<div align="center">
-
-`SOFTWARE ENGINEERING`
- • 
-`BACKEND`
- • 
-`NETWORKING`
- • 
-`SYSTEMS`
-
-<br><br>
-
-`LINUX`
- • 
-`SECURITY`
- • 
-`REVERSE ENGINEERING`
- • 
-`ASSEMBLY`
-
-</div>
-
----
-
 ## `05 // GITHUB TERMINAL`
 
 <div align="center">
@@ -180,31 +128,7 @@ width="95%"
 
 ---
 
-## `08 // PHILOSOPHY`
-
 <div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=don't+just+use+it.;understand+it.;build+it.;break+it.;understand+it."
-alt="Philosophy"
-/>
-
-</div>
-
-I prefer learning by building things.
-
-Instead of treating abstractions as black boxes, I try to understand the layers underneath them, from APIs and applications down to operating systems, protocols and machine-level concepts.
-
----
-
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=666666&center=true&vCenter=true&width=500&lines=%3E+initializing...;%3E+loading+knowledge...;%3E+system+ready.;%3E+learning+by+building.;%3E+_"
-alt="Terminal Animation"
-/>
-
-<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e40c9,100:000000&height=100&section=footer"
