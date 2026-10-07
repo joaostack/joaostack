@@ -1,34 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Jo%C3%A3o+Henryque;Computer+Science+%2F%2F+Software+%2F%2F+Systems;Software+%2F%2F+Networking+%2F%2F+Security;Building+to+understand+how+things+work." alt="Typing"/>
-
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:6e40c9,100:000000&height=2&section=header&text="
-width="700"
-alt=""
-/>
+# Hey There!
 
 <br>
 
 <a href="https://joaostack.vercel.app">
-<img
-src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=white"
-alt="Portfolio"
-/>
+<img src="https://img.shields.io/badge/portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
 <a href="mailto:joaohcontato@proton.me">
-<img
-src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=protonmail&logoColor=white"
-alt="Contact"
-/>
+<img src="https://img.shields.io/badge/contact-050505?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://github.com/joaostack">
+<img src="https://img.shields.io/badge/github-050505?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
+<br>
+
+## `01 // ABOUT`
+
+I'm João, a computer science student who likes understanding what happens underneath the abstractions.
+
+Most of my time goes into writing software, messing with Linux, learning networking and figuring out why something works the way it does.
+
+I don't really like copying solutions.  
+I'd rather build it, break it, debug it and understand what happened.
+
 ---
+
 ## `02 // CURRENTLY`
 
 <table>
@@ -36,27 +36,21 @@ alt="Contact"
 
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://cdn.simpleicons.org/sharp/ff00ff" width="18" height="18" valign="middle">
-&nbsp;C#
-</h3>
+### <img src="https://cdn.simpleicons.org/sharp" width="17"> C#
 
-**Primary language**
+My main language.
 
-Backend development, APIs, software architecture, networking, CLI applications and software engineering.
+Currently focused on backend development, APIs, architecture, CLI tools and understanding the .NET ecosystem beyond the surface.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://cdn.simpleicons.org/rust/67737A" width="18" height="18" valign="middle">
-&nbsp;Rust
-</h3>
+### <img src="https://cdn.simpleicons.org/rust" width="17"> Rust
 
-**Secondary language**
+My secondary language.
 
-Systems programming, ownership, concurrency, networking, tooling and lower-level concepts.
+Learning ownership, concurrency, networking and systems programming without hiding too much behind abstractions.
 
 </td>
 
@@ -66,23 +60,19 @@ Systems programming, ownership, concurrency, networking, tooling and lower-level
 
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://cdn.simpleicons.org/cisco/ffffff" width="18" height="18" valign="middle">
-&nbsp;Networking
-</h3>
+### <img src="https://cdn.simpleicons.org/linux" width="17"> Linux
 
-TCP/IP, HTTP, sockets, ARP, packet capture and network programming.
+A lot of experimenting with systems, processes, networking, services and the things that usually stay invisible to the average application.
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-<img src="https://cdn.simpleicons.org/linux/ffffff" width="18" height="18" valign="middle">
-&nbsp;Systems
-</h3>
+### <img src="https://cdn.simpleicons.org/wireshark" width="17"> Networking
 
-Linux, Windows, processes, memory, debugging and operating-system fundamentals.
+TCP/IP, HTTP, sockets, ARP, packet capture and network programming.
+
+Mostly learning by actually putting packets on the wire.
 
 </td>
 
@@ -91,46 +81,25 @@ Linux, Windows, processes, memory, debugging and operating-system fundamentals.
 
 ---
 
-## `05 // GITHUB TERMINAL`
+## `04 // GITHUB TERMINAL`
 
 <div align="center">
 
 <img
 src="https://terminal-readme-github-stats.vercel.app/api/stats?username=joaostack&theme=hacker&effect=crt"
 width="800"
-alt="GitHub Terminal Stats"
+alt="GitHub Terminal"
 />
 
 </div>
 
----
-
-## `06 // STATISTICS`
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=joaostack&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff"
-height="170"
-alt="GitHub Statistics"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=joaostack&theme=dark&hide_border=true&background=00000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
-height="170"
-alt="GitHub Streak"
-/>
-
-</div>
 
 ---
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e40c9,100:000000&height=100&section=footer"
-width="100%"
-alt=""
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e40c9,100:000000&height=120&section=footer" width="100%"/>
+
+<sub>still learning. still breaking things.</sub>
 
 </div>
