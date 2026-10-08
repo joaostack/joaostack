@@ -81,7 +81,7 @@ Mostly learning by actually putting packets on the wire.
 
 ---
 
-## `04 // GITHUB TERMINAL`
+## `03 // GITHUB TERMINAL`
 
 <div align="center">
 
