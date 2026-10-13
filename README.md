@@ -10,9 +10,6 @@
 <a href="mailto:joaohcontato@proton.me">
 <img src="https://img.shields.io/badge/contact-050505?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-<a href="https://github.com/joaostack">
-<img src="https://img.shields.io/badge/github-050505?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
