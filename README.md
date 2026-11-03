@@ -1,84 +1,90 @@
-<div align="center">
+ <div align="center">
 
-# Hey There!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=JOAO%20STACK&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=DESENVOLVIMENTO%20%2F%20SISTEMAS%20%2F%20BACKEND&descSize=11&descAlignY=68" width="100%"/>
 
 <br>
 
-<a href="https://joaostack.vercel.app">
-<img src="https://img.shields.io/badge/portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:joaohcontato@proton.me">
-<img src="https://img.shields.io/badge/contact-050505?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+**Gosto de construir coisas e entender como elas funcionam.**
+
+[Portfólio](https://joaostack.vercel.app) · [Contato](mailto:joaohcontato@proton.me) · [GitHub](https://github.com/joaostack)
 
 </div>
 
 <br>
 
-## `01 // ABOUT`
+# Sobre mim
 
-I'm João, a computer science student who likes understanding what happens underneath the abstractions.
+Sou o João, estudante de Ciência da Computação e alguém que gosta de entender o que acontece por trás do código.
 
-Most of my time goes into writing software, messing with Linux, learning networking and figuring out why something works the way it does.
+Passo boa parte do tempo desenvolvendo projetos, explorando o ecossistema .NET, mexendo no Linux e estudando como sistemas e aplicações se comunicam.
 
-I don't really like copying solutions.  
-I'd rather build it, break it, debug it and understand what happened.
+Gosto de aprender na prática. Prefiro construir algo do zero, encontrar os problemas, debugar e entender o motivo de cada coisa funcionar (ou não).
 
----
+No fim, programar, para mim, vai muito além de fazer o código funcionar.
 
-## `02 // CURRENTLY`
+<br>
+
+# No que tenho trabalhado
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/sharp" width="17"> C#
+**01 — DESENVOLVIMENTO BACKEND**
 
-My main language.
+C# · .NET · APIs · Arquitetura · Programação assíncrona
 
-Currently focused on backend development, APIs, architecture, CLI tools and understanding the .NET ecosystem beyond the surface.
+É onde concentro a maior parte dos meus projetos. Gosto de trabalhar com lógica de negócio, integrações e entender melhor os recursos que o .NET oferece.
 
 </td>
-
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/rust" width="17"> Rust
+**02 — PROGRAMAÇÃO DE SISTEMAS**
 
-My secondary language.
+Rust · Gerenciamento de memória · Concorrência
 
-Learning ownership, concurrency, networking and systems programming without hiding too much behind abstractions.
+Tenho explorado Rust para entender melhor como as coisas funcionam em um nível mais próximo do sistema.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/linux" width="17"> Linux
+**03 — LINUX & SISTEMAS**
 
-A lot of experimenting with systems, processes, networking, services and the things that usually stay invisible to the average application.
+Linux · Processos · Shell · Serviços
+
+Gosto de experimentar, configurar ambientes e aprender mais sobre o funcionamento dos sistemas operacionais.
 
 </td>
-
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/wireshark" width="17"> Networking
+**04 — REDES & PROTOCOLOS**
 
-TCP/IP, HTTP, sockets, ARP, packet capture and network programming.
+TCP/IP · HTTP · DNS · Sockets · Wireshark
 
-Mostly learning by actually putting packets on the wire.
+Estudando como os dispositivos se comunicam, como os protocolos funcionam e o que acontece por trás de uma conexão.
 
 </td>
-
 </tr>
 </table>
 
----
+<br>
 
-## `03 // GITHUB TERMINAL`
+# Projetos & experimentos
+
+Algumas das coisas que gosto de desenvolver:
+
+- **Backend:** aplicações, APIs e integrações utilizando C# e .NET.
+- **Ferramentas:** aplicações CLI e utilitários para facilitar tarefas do dia a dia.
+- **Discord:** bots, integrações e automações.
+- **Sistemas:** experimentos envolvendo Linux, redes e programação de baixo nível.
+
+Gosto de transformar ideias em projetos reais, mesmo quando começam como um simples experimento.
+
+<br>
+
+# GitHub Terminal
 
 <div align="center">
 
@@ -90,13 +96,14 @@ alt="GitHub Terminal"
 
 </div>
 
+<br>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6e40c9,100:000000&height=120&section=footer" width="100%"/>
+<br><br>
 
-<sub>still learning. still breaking things.</sub>
+**Sempre aprendendo, construindo e descobrindo algo novo.**
 
 </div>
