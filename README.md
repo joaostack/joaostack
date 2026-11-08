@@ -1,109 +1,51 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=João%20Henryque&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=DESENVOLVIMENTO%20%2F%20SISTEMAS%20%2F%20BACKEND&descSize=11&descAlignY=68" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,100:171717&text=Jo%C3%A3o%20Henryque&fontColor=ffffff&fontSize=48&fontAlignY=50&animation=fadeIn" />
 
-<br>
+<br/>
 
-**Gosto de construir coisas e entender como elas funcionam.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building." />
 
-[Portfólio](https://joaostack.vercel.app) · [Contato](mailto:joaohcontato@proton.me) · [GitHub](https://github.com/joaostack)
+<br/>
 
-</div>
-
-<br>
-
-# Sobre mim
-
-Sou o João, estudante de Ciência da Computação e alguém que gosta de entender o que acontece por trás do código.
-
-Passo boa parte do tempo desenvolvendo projetos, explorando o ecossistema .NET, mexendo no Linux e estudando como sistemas e aplicações se comunicam.
-
-Gosto de aprender na prática. Prefiro construir algo do zero, encontrar os problemas, debugar e entender o motivo de cada coisa funcionar (ou não).
-
-No fim, programar, para mim, vai muito além de fazer o código funcionar.
-
-<br>
-
-# No que tenho trabalhado
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — DESENVOLVIMENTO BACKEND**
-
-C# · .NET · APIs · Arquitetura · Programação assíncrona
-
-É onde concentro a maior parte dos meus projetos. Gosto de trabalhar com lógica de negócio, integrações e entender melhor os recursos que o .NET oferece.
-
-</td>
-<td width="50%" valign="top">
-
-**02 — PROGRAMAÇÃO DE SISTEMAS**
-
-Rust · Gerenciamento de memória · Concorrência
-
-Tenho explorado Rust para entender melhor como as coisas funcionam em um nível mais próximo do sistema.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — LINUX & SISTEMAS**
-
-Linux · Processos · Shell · Serviços
-
-Gosto de experimentar, configurar ambientes e aprender mais sobre o funcionamento dos sistemas operacionais.
-
-</td>
-<td width="50%" valign="top">
-
-**04 — REDES & PROTOCOLOS**
-
-TCP/IP · HTTP · DNS · Sockets · Wireshark
-
-Estudando como os dispositivos se comunicam, como os protocolos funcionam e o que acontece por trás de uma conexão.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-# Projetos & experimentos
-
-Algumas das coisas que gosto de desenvolver:
-
-- **Backend:** aplicações, APIs e integrações utilizando C# e .NET.
-- **Ferramentas:** aplicações CLI e utilitários para facilitar tarefas do dia a dia.
-- **Discord:** bots, integrações e automações.
-- **Sistemas:** experimentos envolvendo Linux, redes e programação de baixo nível.
-
-Gosto de transformar ideias em projetos reais, mesmo quando começam como um simples experimento.
-
-<br>
-
-# GitHub Terminal
-
-<div align="center">
-
-<img
-src="https://terminal-readme-github-stats.vercel.app/api/stats?username=joaostack&theme=hacker&effect=crt"
-width="800"
-alt="GitHub Terminal"
-/>
+<a href="https://joaostack.vercel.app">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="mailto:joaohcontato@proton.me">Contact</a>
 
 </div>
 
-<br>
+<br/>
 
 ---
 
 <div align="center">
 
-<br><br>
+### About
 
-**Sempre aprendendo, construindo e descobrindo algo novo.**
+I'm João, a computer science student interested in software engineering and understanding how things work beneath the surface.
+
+I enjoy building, experimenting and figuring things out.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaostack&hide_title=true&hide_border=true&show_icons=true&bg_color=00000000&text_color=888888&icon_color=aaaaaa&include_all_commits=true" height="140"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888" height="140"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="90%" src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
+
+<br/><br/>
+
+<sub>© João Henryque · 2026</sub>
 
 </div>
