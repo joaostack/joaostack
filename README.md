@@ -48,8 +48,4 @@ I enjoy building, experimenting and figuring things out.
   alt="Contribution animation"
 />
 
-<br/><br/>
-
-<sub>© João Henryque · 2026</sub>
-
 </div>
