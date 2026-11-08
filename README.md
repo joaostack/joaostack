@@ -42,7 +42,11 @@ I enjoy building, experimenting and figuring things out.
 
 <div align="center">
 
-<img width="90%" src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
+<img
+  width="90%"
+  src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution animation"
+/>
 
 <br/><br/>
 
