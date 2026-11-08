@@ -32,9 +32,9 @@ I enjoy building, experimenting and figuring things out.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaostack&hide_title=true&hide_border=true&show_icons=true&bg_color=00000000&text_color=888888&icon_color=aaaaaa&include_all_commits=true" height="140"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaostack&theme=github_dark" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaostack&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888" height="140"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaostack&theme=github_dark" height="150"/>
 
 </div>
 
