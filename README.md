@@ -44,7 +44,7 @@ I enjoy building, experimenting and figuring things out.
 
 <img
   width="90%"
-  src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake.svg"
   alt="Contribution animation"
 />
 
