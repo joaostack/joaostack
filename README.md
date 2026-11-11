@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,100:171717&text=Jo%C3%A3o%20Henryque&fontColor=ffffff&fontSize=48&fontAlignY=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,100:21262d&text=Jo%C3%A3o%20Henryque&fontColor=ffffff&fontSize=48&fontAlignY=50&animation=fadeIn" />
 
 <br/>
 
@@ -32,9 +32,8 @@ I enjoy building, experimenting and figuring things out.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaostack&theme=github_dark" height="150"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaostack&theme=github_dark" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaostack&theme=default" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaostack&theme=default" height="150"/>
 
 </div>
 
@@ -42,10 +41,20 @@ I enjoy building, experimenting and figuring things out.
 
 <div align="center">
 
-<img
-  width="90%"
-  src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake.svg"
-  alt="Contribution animation"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="90%"
+    src="https://raw.githubusercontent.com/joaostack/joaostack/output/github-contribution-grid-snake.svg"
+    alt="Contribution animation"
+  />
+</picture>
 
 </div>
