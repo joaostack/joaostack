@@ -38,7 +38,7 @@
       <br/>
       <b>◆ &nbsp;ABOUT&nbsp; ◆</b>
       <br/><br/>
-      I'm João, a computer science student interested in software engineering<br/>
+      I'm João, a self-taught computer science student interested in software engineering<br/>
       and understanding how things work beneath the surface.
       <br/><br/>
       <sub><i>I enjoy building, experimenting and figuring things out.</i></sub>
