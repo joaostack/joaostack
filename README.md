@@ -1,63 +1,64 @@
- <div align="center">
+<h1 align="center">João Henryque</h1>
+
+<div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:0d1117,100:30363d&text=Jo%C3%A3o%20Henryque&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=36&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:f0f0f0,100:dcdcdc&text=Jo%C3%A3o%20Henryque&fontColor=171717&fontSize=48&fontAlignY=40&animation=fadeIn"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&height=36&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
   />
   <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:f0f0f0,100:dcdcdc&text=Jo%C3%A3o%20Henryque&fontColor=171717&fontSize=48&fontAlignY=40&animation=fadeIn"
-    alt="João Henryque"
-  />
-</picture>
-
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=435&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&height=36&lines=Building+things+that+make+sense.;Understanding+what+happens+under+the+hood.;Always+learning%2C+always+building."
     alt="Building things that make sense"
   />
 </picture>
 
 <br/><br/>
 
-<a href="https://joaostack.vercel.app">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="mailto:joaohcontato@proton.me">Contact</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### About
-
-I'm João, a computer science student interested in software engineering and understanding how things work beneath the surface.
-
-I enjoy building, experimenting and figuring things out.
+<a href="https://joaostack.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-joaostack.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:joaohcontato@proton.me">
+  <img src="https://img.shields.io/badge/Contact-joaohcontato%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" />
+</a>
+<a href="https://github.com/joaostack">
+  <img src="https://img.shields.io/badge/GitHub-joaostack-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <br/>
+      <b>◆ &nbsp;ABOUT&nbsp; ◆</b>
+      <br/><br/>
+      I'm João, a computer science student interested in software engineering<br/>
+      and understanding how things work beneath the surface.
+      <br/><br/>
+      <sub><i>I enjoy building, experimenting and figuring things out.</i></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<b>◆ &nbsp;GITHUB STATS&nbsp; ◆</b>
+
+<br/><br/>
 
 <picture>
   <source
@@ -69,12 +70,12 @@ I enjoy building, experimenting and figuring things out.
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaostack&theme=default"
   />
   <img
-    height="150"
+    height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaostack&theme=default"
     alt="GitHub statistics"
   />
 </picture>
-
+&nbsp;
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -85,7 +86,7 @@ I enjoy building, experimenting and figuring things out.
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaostack&theme=default"
   />
   <img
-    height="150"
+    height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaostack&theme=default"
     alt="Most used languages"
   />
@@ -96,6 +97,10 @@ I enjoy building, experimenting and figuring things out.
 <br/>
 
 <div align="center">
+
+<b>◆ &nbsp;CONTRIBUTIONS&nbsp; ◆</b>
+
+<br/><br/>
 
 <picture>
   <source
