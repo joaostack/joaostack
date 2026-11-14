@@ -1,4 +1,4 @@
-<h1 align="center">João Henryque</h1>
+<h1 align="center">João Henryque Mello Falcão</h1>
 
 <div align="center">
 
