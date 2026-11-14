@@ -25,9 +25,6 @@
 <a href="mailto:joaohcontato@proton.me">
   <img src="https://img.shields.io/badge/Contact-joaohcontato%40proton.me-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" />
 </a>
-<a href="https://github.com/joaostack">
-  <img src="https://img.shields.io/badge/GitHub-joaostack-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 </div>
 
